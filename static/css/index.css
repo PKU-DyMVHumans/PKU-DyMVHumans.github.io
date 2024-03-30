@@ -146,7 +146,7 @@ body {
 }
 
 
-.container is-max-desktop{
+/* .container is-max-desktop{
   display: flex;
   width:150%;
   justify-content: center; /* 水平居中 */
@@ -160,6 +160,6 @@ body {
   width:150%;
   justify-content: center; /* 水平居中 */
   
-}
+} */
 
 
