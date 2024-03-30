@@ -157,7 +157,11 @@ body {
 #interpolation-image-wrapper img {
   border-radius: 5px;
 }
-.interpolation-image {
+/* .interpolation-image {
   width: 1000px; /* 设置为适当的宽度值 */
   border-radius: 5px;
+} */
+
+.my-image{
+  width: 1000px;
 }
