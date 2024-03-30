@@ -133,6 +133,11 @@ body {
   border-radius: 10px;
 }
 
+.interpolation-image {
+  width: 500px; /* 设置为适当的宽度值 */
+  border-radius: 5px;
+}
+
 .interpolation-panel .interpolation-image {
   width: 100%;
   border-radius: 5px;
