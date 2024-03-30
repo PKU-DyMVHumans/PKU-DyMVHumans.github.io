@@ -133,10 +133,7 @@ body {
   border-radius: 10px;
 }
 
-.interpolation-image {
-  width: 1000px; /* 设置为适当的宽度值 */
-  border-radius: 5px;
-}
+
 
 .interpolation-panel .interpolation-image {
   width: 100%;
@@ -158,5 +155,9 @@ body {
   width: 100%;
 }
 #interpolation-image-wrapper img {
+  border-radius: 5px;
+}
+.interpolation-image {
+  width: 1000px; /* 设置为适当的宽度值 */
   border-radius: 5px;
 }
