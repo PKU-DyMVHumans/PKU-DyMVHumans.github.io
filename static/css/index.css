@@ -180,6 +180,7 @@ body {
 }
 
 .imageClass{
+  width:150%;
   justify-content: center;
 }
 
